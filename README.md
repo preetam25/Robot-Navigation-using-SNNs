@@ -6,7 +6,7 @@ The navigation task is divided into two parts -
 2. Learning position (proposed a new method)
 
 ### Novel SNN architecture
-Developed a novel SNN architecture to determine the position of a robot in a 2D space. For details please refer the [report](Report.pdf). 
+Developed a novel SNN architecture to determine the position of a robot in a 2D space. For details, please refer to the recorded [presentation](Presentation.pptx) and the [report](Report.pdf). 
 
 ![Architecture](Part2_NewProposal/network.io.png)  
   
